@@ -1,0 +1,38 @@
+
+img {
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+}
+h1 {
+  margin: 1.66%;
+  color: brown;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: bisque;
+}
+p {
+font-family: awesome;
+margin: 1.66%;
+color: forestgreen;
+text-transform: uppercase;
+font-weight: 600;
+border-bottom: 2px solid #f1f1f1;
+width: 30%;
+padding-bottom: 20px;
+}
+
+#FAT {
+width: 100PX;
+}
+h2 {
+margin: 1.66%;
+color:darkgreen;
+text-align: center;
+text-transform: uppercase;
+}
+
+h3 {
+  margin: 1.66%;
+  color: blue;
+}
